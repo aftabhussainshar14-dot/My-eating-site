@@ -1,2 +1,15 @@
 # My-eating-site
 Product selling 
+##[debug]Starting: Complete job
+Uploading runner diagnostic logs
+##[debug]Starting diagnostic file upload.
+##[debug]Setting up diagnostic log folders.
+##[debug]Creating diagnostic log files folder.
+##[debug]Copying 1 worker diagnostic logs.
+##[debug]Copying 1 runner diagnostic logs.
+##[debug]Zipping diagnostic files.
+##[debug]Uploading diagnostic metadata file.
+##[debug]Diagnostic file upload complete.
+Completed runner diagnostic log upload
+Cleaning up orphan processes
+##[debug]Finishing: Complete job
